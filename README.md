@@ -2,7 +2,7 @@
 
 **Role**: AI/UX Researcher | Center for Music Technology, Georgia Tech
 
-Our work centers on integrating AI with music composition tools to enhance creativity for all. Key contributions include:
+My work centers on integrating AI with music composition tools to enhance creativity for all. Key contributions include:
 
 - **Plugin Development**: Built an open-source MuseScore plugin for generative AI music tools.
 - **AI Model Training**: Trained on models like Magenta TensorFlow, Symphonynet, and OpenAI, advancing AI-generated music.
